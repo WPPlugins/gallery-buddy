@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gallery-buddy\n"
+"POT-Creation-Date: 2012-02-02 16:51+0100\n"
+"PO-Revision-Date: 2012-02-02 17:19+0100\n"
+"Last-Translator: Johann Heyne <mail@johannheyne.de>\n"
+"Language-Team: Johann Heyne <mail@johannheyne.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: gallery-buddy.php:36
+msgid "This Plugin »Gallery-Buddy« requires WordPress 3.2.1 or higher."
+msgstr "Dieses Plugin »Gallery-Buddy« benötigt WordPress 3.2.1 oder höher."
+

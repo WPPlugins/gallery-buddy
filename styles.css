@@ -1,0 +1,49 @@
+.media-item {
+	position: relative;
+}
+.mg-form-box {
+	position: absolute;
+	right: 120px;
+	top: 6px;
+}
+.mg-form-box label {
+	font-size: 13px;
+	line-height: 26px;
+	padding: 0 8px 0 0 !important;
+	color: #aaa !important;
+}
+
+#gallery-buddy-sorter {
+	position: relative;
+	margin: 16px 32px 30px 14px;
+	padding: 0 0 0 0;
+}
+#gallery-buddy-sorter li {
+	border: 1px solid #dfdfdf;
+	cursor: move;
+	margin-bottom: -1px;
+	padding: 2px 20px 2px 2px;
+}
+#gallery-buddy-sorter li img {
+	display: inline;
+	width: 30px; 
+	height: 30px;
+	vertical-align: middle;
+}
+#gallery-buddy-sorter li span {
+	font-size: 13px;
+	line-height: 26px;
+	vertical-align: middle;
+	padding: 0 12px 0 12px;
+	display: inline-block;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 460px;
+}
+
+#gallery-buddy-sorter li a {
+	font-size: 13px;
+	float: right;
+	line-height: 30px;
+	color: red;
+}
